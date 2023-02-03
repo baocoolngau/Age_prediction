@@ -28,7 +28,24 @@
      
   2. Chạy code
       * Chạy ô khai báo thư viện
-      ![](file:///C:/Users/Admin/Pictures/Screenshot%202022-11-29%20212255.jpg)
+import pandas as pd
+import numpy as np
+import os
+import cv2
+import matplotlib.pyplot as plt
+import seaborn as sns
+import skimage
+import sklearn
+import warnings
+from tqdm.notebook import tqdm
+from pathlib import Path
+warnings.filterwarnings('ignore')
+
+
+import tensorflow as tf
+# from keras.preprocessing.image import load_img
+from keras.models import Sequential, Model
+from keras.layers import Dense, Conv2D, Dropout, Flatten, MaxPooling2D, Input
       * Chạy ô tạo hàm phân tách khuôn mặt từ ảnh
       ![](file:///C:/Users/Admin/Pictures/Screenshot%202022-11-29%20213358.jpg)
       * Chạy ô tạo hàm trích xuất đặt trưng từ khuôn mặt
