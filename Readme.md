@@ -1,26 +1,15 @@
 ## THÔNG TIN CÁC FILE ĐÍNH KÈM
-1. **221IS2902_DAwP_R_FinalProject_Group HI.docx**
-     
-    Đây là file báo cáo tổng hợp của đồ án. Các nội dung chính bao gồm: Tổng quan đồ án, cơ sở lý thuyết, quy trình lập trình xây dựng mô hình, đánh giá kết quả và kết luận
-2. **221IS2902_DAwP_R_FinalProject_Group HI.pdf**
+4. **Source_code.jpynb**
 
-   File báo cáo tổng hợp ở định dạng pdf
+   File source code ở định dạng notebook.
 
-3. **221IS2902_DAwP_R_FinalProject_Group HI_thuyet_trinh.pdf**
+5. **model_4.h5**
 
-   File thuyết trình của nhóm
-
-4. **221IS2902_DAwP_R_FinalProject_Group HI.jpynb**
-
-   File source code của đồ án ở định dạng notebook
-
-5. **221IS2902_DAwP_R_FinalProject_Group HI.h5**
-
-   Model CNN đã được train của đồ án
+   Model CNN đã được train.
  
-6. **221IS2902_DAwP_R_FinalProject_Group HI.xml**
+6. **haarcascade_frontalface_default.xml**
 
-    Tệp XML này chứa một mô hình với thuật toán phân tách vật thể đã được huấn luyện từ trước nên được dùng để tách khuôn mặt từ ảnh trong đồ án này
+    Tệp XML này chứa một mô hình với thuật toán phân tách vật thể đã được huấn luyện từ trước nên được dùng để tách khuôn mặt từ ảnh.
     
 
 ## CÁCH THỰC THI CODE CHO NGƯỜI DÙNG
