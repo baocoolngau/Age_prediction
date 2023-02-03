@@ -17,12 +17,12 @@
     
     * Google colab (môi trường máy chủ - hosted runtime)
     
-    Mở file 221IS2902_DAwP_R_FinalProject_Group HI.jpynb bằng google colab ( file -> open notebook).
+    Mở file Source_code.jpynb bằng google colab ( file -> open notebook).
     
       ![](file:///C:/Users/Admin/Pictures/Screenshot%202022-11-29%20204700.jpg)
     
    
-   Tải tệp model 221IS2902_DAwP_R_FinalProject_Group HI.h5 và tệp 221IS2902_DAwP_R_FinalProject_Group HI.xml lên thư mục
+   Tải tệp model model_4.h5 và tệp haarcascade_frontalface_default.xml lên thư mục
    
       ![](file:///C:/Users/Admin/Pictures/Screenshot%202022-11-29%20211322.jpg)
      
@@ -38,8 +38,6 @@
       
         ![](file:///C:/Users/Admin/Pictures/Screenshot%202022-11-29%20214410.jpg)
       * Load CNN model
-        
-        Chỉnh sửa lại đường dẫn thành 221IS2902_DAwP_R_FinalProject_Group HI.h5
         
           ![](file:///C:/Users/Admin/Pictures/Screenshot%202022-11-29%20220935.jpg)
      
